@@ -1,1 +1,1 @@
-# LIFO stack in windows & linux cpp
+# LIFO stack in cpp on windows & linux
